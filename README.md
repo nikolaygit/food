@@ -6,6 +6,7 @@ Goals: organic, fair, regional, not expensive, automate
 
 * http://www.landkorb-shop.de
 * https://www.bonativo.de/de/berlin/
+* http://www.brodowin.de/lieferservice-brodowiner-oekokorb/so-gehts/
 * http://berlin.bringmeister.de/ (wenig Bio)
 
 ## Andere
